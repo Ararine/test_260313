@@ -7,13 +7,13 @@ function App() {
     <>
       <div className="App">
         <Button variant="text" color="secondary">
-          Hello World
+          Hello World...
         </Button>
         <Button variant="contained" color="success">
           Hello World
         </Button>
         <Button variant="outlined" color="error">
-          Hello World...
+          Hello World
         </Button>
       </div>
     </>
